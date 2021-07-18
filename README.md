@@ -21,7 +21,14 @@
 ‎      ‏‏‎
 
 ## Proyecto 2: [2. Procedimiento de Venta al Contado.docx](https://github.com/agustinrp/Sistemas_de_Informacion/files/6837055/2.Procedimiento.de.Venta.al.Contado.docx)
+## Diagrama de interdependencia sectorial (DIS)<img src="https://img.icons8.com/carbon-copy/50/000000/serial-tasks.png"/>
+![dis](https://user-images.githubusercontent.com/58674979/126085394-c8db9b09-69c9-4cbb-80cb-2ad74278fdf2.png)
 
+## Cursograma <img src="https://img.icons8.com/dusk/40/000000/workflow.png"/>
+
+## Diagrama de bloque <img src="https://img.icons8.com/dotty/40/000000/activity-feed.png"/>
+
+## Diagrama de bloque extendido <img src="https://img.icons8.com/dotty/40/000000/activity-grid.png"/>
 
 
 
