@@ -2,4 +2,4 @@
 
 ## Este repositorio contiene los proyectos de la parte práctica realizados para la asignatura: ''Seminario de Sistemas II: Sistemas de Información'' de la Universidad Caece.
 ## La parte práctica consiste en los diferentes tipos de diagramas organizacionales:
-### Diagrama de interdependencia sectorial (DIS): <img src="https://img.icons8.com/carbon-copy/50/000000/serial-tasks.png"/>
+### Diagrama de interdependencia sectorial (DIS): <img src="https://img.icons8.com/carbon-copy/60/000000/serial-tasks.png"/>
