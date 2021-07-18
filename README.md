@@ -27,7 +27,6 @@
 ## Cursograma <img src="https://img.icons8.com/dusk/40/000000/workflow.png"/>
 ![c1](https://user-images.githubusercontent.com/58674979/126085442-aacbc7df-eddf-4eab-80f7-63d96f2c99b2.png)
 ![c2](https://user-images.githubusercontent.com/58674979/126085453-89bfffbb-2351-4073-81b3-5168e41b7caa.png)
-![e1](https://user-images.githubusercontent.com/58674979/126085459-e9c71b04-ffd3-438d-9ce8-23816f47f808.png)
 
 ## Diagrama de bloque <img src="https://img.icons8.com/dotty/40/000000/activity-feed.png"/>
 ![e1](https://user-images.githubusercontent.com/58674979/126085459-e9c71b04-ffd3-438d-9ce8-23816f47f808.png)
