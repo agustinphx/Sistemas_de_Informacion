@@ -18,7 +18,8 @@
 ![extendido1](https://user-images.githubusercontent.com/58674979/126085064-5afb2809-eae9-42c6-8df5-f0e5daece718.png)
 ![extendido 2](https://user-images.githubusercontent.com/58674979/126085079-450e7de4-3460-42ea-9193-e7851eb411e3.png)
 ‎      ‏‏‎
-‎      ‏‏‎
+
+
 ## Proyecto 2: [2. Procedimiento de Venta al Contado.docx](https://github.com/agustinrp/Sistemas_de_Informacion/files/6837055/2.Procedimiento.de.Venta.al.Contado.docx)
 ## Diagrama de interdependencia sectorial (DIS)<img src="https://img.icons8.com/carbon-copy/50/000000/serial-tasks.png"/>
 ![dis](https://user-images.githubusercontent.com/58674979/126085394-c8db9b09-69c9-4cbb-80cb-2ad74278fdf2.png)
@@ -35,6 +36,8 @@
 
 
 ‎      ‏‏‎
+
+## Proyecto 3 :[3. Procedimientos de cobranzas.docx](https://github.com/agustinrp/Sistemas_de_Informacion/files/6837060/3.Procedimientos.de.cobranzas.docx)
 
 ## Herramienta utilizada: Draw.io ![draw](https://user-images.githubusercontent.com/58674979/126081442-e83d9ccc-14c9-4ff8-8dc5-9f300be169f0.png)
 https://app.diagrams.net/
