@@ -6,7 +6,8 @@
 ### Cursograma <img src="https://img.icons8.com/dusk/40/000000/workflow.png"/>
 ### Diagrama de bloque <img src="https://img.icons8.com/dotty/40/000000/activity-feed.png"/> <img src="https://img.icons8.com/ios/30/000000/sankey.png"/>  <img src="https://img.icons8.com/dotty/40/000000/activity-feed.png"/>
 ### Diagrama de bloque extendido <img src="https://img.icons8.com/dotty/40/000000/activity-grid.png"/>
-## Herramienta utilizada: Draw.io ![pas](https://user-images.githubusercontent.com/58674979/114293287-441f1d00-9a6b-11eb-819a-27a0bd645a3f.gif)
+## Herramienta utilizada: Draw.io ![draw](https://user-images.githubusercontent.com/58674979/126081442-e83d9ccc-14c9-4ff8-8dc5-9f300be169f0.png)
+
   
 
  
