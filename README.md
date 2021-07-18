@@ -35,11 +35,7 @@
 ![e3](https://user-images.githubusercontent.com/58674979/126085466-d924ceb4-666e-409b-a6a6-6295a1ed74db.png)
 
 
+‎      ‏‏‎
 
 ## Herramienta utilizada: Draw.io ![draw](https://user-images.githubusercontent.com/58674979/126081442-e83d9ccc-14c9-4ff8-8dc5-9f300be169f0.png)
-
-  
-
- 
-
 https://app.diagrams.net/
