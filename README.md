@@ -1,5 +1,4 @@
 # Sistemas de Información <img src="https://img.icons8.com/cotton/60/000000/information-pyramid.png"/>
-
 ## Este repositorio contiene los proyectos de la parte práctica realizados para la asignatura: ''Seminario de Sistemas II: Sistemas de Información'' de la Universidad Caece.
 ## La parte práctica consiste en los diagramas organizacionales: DIS, cursograma, diagrama de bloque y diagrama de bloque extendido.
 ‎      ‏‏‎
