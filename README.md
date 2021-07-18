@@ -4,5 +4,5 @@
 ## La parte práctica consiste en los diferentes tipos de diagramas organizacionales:
 ### Diagrama de interdependencia sectorial (DIS): <img src="https://img.icons8.com/carbon-copy/60/000000/serial-tasks.png"/>
 ### Cursograma <img src="https://img.icons8.com/dusk/50/000000/workflow.png"/>
-### Diagrama de bloque <img src="https://img.icons8.com/dotty/50/000000/box.png"/> <img src="https://img.icons8.com/ios/50/000000/sankey.png"/><img src="https://img.icons8.com/dotty/50/000000/box.png"/>
+### Diagrama de bloque <img src="https://img.icons8.com/dotty/80/000000/activity-feed.png"/> <img src="https://img.icons8.com/dotty/50/000000/box.png"/> <img src="https://img.icons8.com/ios/50/000000/sankey.png"/><img src="https://img.icons8.com/dotty/50/000000/box.png"/>
 ### Diagrama de bloque extendido <img src="https://img.icons8.com/dotty/50/000000/activity-grid.png"/>
