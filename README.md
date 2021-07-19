@@ -49,8 +49,7 @@
 ![e1](https://user-images.githubusercontent.com/58674979/126086413-9b1df8fd-5414-45fc-8a44-1575c9bbe3b6.png)
 
 ## Diagrama de bloque extendido <img src="https://img.icons8.com/dotty/40/000000/activity-grid.png"/>
-![2021-07-18 (24)](https://user-images.githubusercontent.com/58674979/126086497-f4a7229c-ab3a-43bb-91aa-706cdd04ed46.png)
-
+![2021-07-18 (27)](https://user-images.githubusercontent.com/58674979/126086601-eb3507f1-4ecd-4113-a63a-ed2962d45ead.png)
 
 
 ## Herramienta utilizada: Draw.io ![draw](https://user-images.githubusercontent.com/58674979/126081442-e83d9ccc-14c9-4ff8-8dc5-9f300be169f0.png)
