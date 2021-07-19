@@ -50,7 +50,7 @@
 
 ## Diagrama de bloque extendido <img src="https://img.icons8.com/dotty/40/000000/activity-grid.png"/>
 ![2021-07-18 (27)](https://user-images.githubusercontent.com/58674979/126086601-eb3507f1-4ecd-4113-a63a-ed2962d45ead.png)
-
+‎      ‏‏‎
 ## Proyecto 4 :[4. Procedimiento de venta a crédito.docx](https://github.com/agustinrp/Sistemas_de_Informacion/files/6837061/4.Procedimiento.de.venta.a.credito.docx)
 ## Cursograma <img src="https://img.icons8.com/dusk/40/000000/workflow.png"/>
 ![c1](https://user-images.githubusercontent.com/58674979/126086788-c26a1b53-9ed1-429e-9f77-0063195bd21b.png)
