@@ -51,6 +51,21 @@
 ## Diagrama de bloque extendido <img src="https://img.icons8.com/dotty/40/000000/activity-grid.png"/>
 ![2021-07-18 (27)](https://user-images.githubusercontent.com/58674979/126086601-eb3507f1-4ecd-4113-a63a-ed2962d45ead.png)
 
+## Proyecto 4 :[4. Procedimiento de venta a crédito.docx](https://github.com/agustinrp/Sistemas_de_Informacion/files/6837061/4.Procedimiento.de.venta.a.credito.docx)
+## Cursograma <img src="https://img.icons8.com/dusk/40/000000/workflow.png"/>
+![c1](https://user-images.githubusercontent.com/58674979/126086788-c26a1b53-9ed1-429e-9f77-0063195bd21b.png)
+![c2](https://user-images.githubusercontent.com/58674979/126086801-98b5f9be-2cfc-40f6-bf26-a0a763ccb6cd.png)
+
+
+## Diagrama de bloque <img src="https://img.icons8.com/dotty/40/000000/activity-feed.png"/>
+![e](https://user-images.githubusercontent.com/58674979/126086818-cec0f190-7f76-495a-82e8-f990aa0811cc.png)
+
+
+## Diagrama de bloque extendido <img src="https://img.icons8.com/dotty/40/000000/activity-grid.png"/>
+![e1](https://user-images.githubusercontent.com/58674979/126086834-1caa31bf-208d-4aa9-97aa-eb1d9e1b854b.png)
+![e2](https://user-images.githubusercontent.com/58674979/126086838-fd906fc8-20d8-4602-85b9-aa8dfc70c564.png)
+
+
 
 ## Herramienta utilizada: Draw.io ![draw](https://user-images.githubusercontent.com/58674979/126081442-e83d9ccc-14c9-4ff8-8dc5-9f300be169f0.png)
 https://app.diagrams.net/
