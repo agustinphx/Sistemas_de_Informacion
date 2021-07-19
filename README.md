@@ -38,6 +38,19 @@
 ‎      ‏‏‎
 
 ## Proyecto 3 :[3. Procedimientos de cobranzas.docx](https://github.com/agustinrp/Sistemas_de_Informacion/files/6837060/3.Procedimientos.de.cobranzas.docx)
+## Diagrama de interdependencia sectorial (DIS)<img src="https://img.icons8.com/carbon-copy/50/000000/serial-tasks.png"/>
+![dis](https://user-images.githubusercontent.com/58674979/126086370-5e60768c-d372-4fa9-91d7-8d9c4f241170.png)
+
+## Cursograma <img src="https://img.icons8.com/dusk/40/000000/workflow.png"/>
+
+
+## Diagrama de bloque <img src="https://img.icons8.com/dotty/40/000000/activity-feed.png"/>
+
+
+## Diagrama de bloque extendido <img src="https://img.icons8.com/dotty/40/000000/activity-grid.png"/>
+
+
+
 
 ## Herramienta utilizada: Draw.io ![draw](https://user-images.githubusercontent.com/58674979/126081442-e83d9ccc-14c9-4ff8-8dc5-9f300be169f0.png)
 https://app.diagrams.net/
