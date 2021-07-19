@@ -1,8 +1,9 @@
 # Sistemas de Información <img src="https://img.icons8.com/cotton/60/000000/information-pyramid.png"/>
 ## Este repositorio contiene los proyectos de la parte práctica realizados para la asignatura: ''Seminario de Sistemas II: Sistemas de Información'' de la Universidad Caece.
 ## La parte práctica consiste en los diagramas organizacionales: DIS, cursograma, diagrama de bloque y diagrama de bloque extendido.
-‎      ‏‏‎
 
+
+‎      ‏‏‎
 ## Proyecto 1: [1. Procedimiento de Ventas.docx](https://github.com/agustinrp/Sistemas_de_Informacion/files/6837053/1.Procedimiento.de.Ventas.docx)
 ## Diagrama de interdependencia sectorial (DIS)<img src="https://img.icons8.com/carbon-copy/50/000000/serial-tasks.png"/>
 ![1 DIS](https://user-images.githubusercontent.com/58674979/126084392-48fe988e-e6de-4ed8-bf18-159225f587ec.png)
@@ -17,9 +18,9 @@
 ## Diagrama de bloque extendido <img src="https://img.icons8.com/dotty/40/000000/activity-grid.png"/>
 ![extendido1](https://user-images.githubusercontent.com/58674979/126085064-5afb2809-eae9-42c6-8df5-f0e5daece718.png)
 ![extendido 2](https://user-images.githubusercontent.com/58674979/126085079-450e7de4-3460-42ea-9193-e7851eb411e3.png)
+
+
 ‎      ‏‏‎
-
-
 ## Proyecto 2: [2. Procedimiento de Venta al Contado.docx](https://github.com/agustinrp/Sistemas_de_Informacion/files/6837055/2.Procedimiento.de.Venta.al.Contado.docx)
 ## Diagrama de interdependencia sectorial (DIS)<img src="https://img.icons8.com/carbon-copy/50/000000/serial-tasks.png"/>
 ![dis](https://user-images.githubusercontent.com/58674979/126085394-c8db9b09-69c9-4cbb-80cb-2ad74278fdf2.png)
@@ -36,7 +37,6 @@
 
 
 ‎      ‏‏‎
-
 ## Proyecto 3 :[3. Procedimientos de cobranzas.docx](https://github.com/agustinrp/Sistemas_de_Informacion/files/6837060/3.Procedimientos.de.cobranzas.docx)
 ## Diagrama de interdependencia sectorial (DIS)<img src="https://img.icons8.com/carbon-copy/50/000000/serial-tasks.png"/>
 ![dis](https://user-images.githubusercontent.com/58674979/126086370-5e60768c-d372-4fa9-91d7-8d9c4f241170.png)
@@ -50,6 +50,8 @@
 
 ## Diagrama de bloque extendido <img src="https://img.icons8.com/dotty/40/000000/activity-grid.png"/>
 ![2021-07-18 (27)](https://user-images.githubusercontent.com/58674979/126086601-eb3507f1-4ecd-4113-a63a-ed2962d45ead.png)
+
+
 ‎      ‏‏‎
 ## Proyecto 4 :[4. Procedimiento de venta a crédito.docx](https://github.com/agustinrp/Sistemas_de_Informacion/files/6837061/4.Procedimiento.de.venta.a.credito.docx)
 ## Cursograma <img src="https://img.icons8.com/dusk/40/000000/workflow.png"/>
@@ -64,7 +66,6 @@
 ## Diagrama de bloque extendido <img src="https://img.icons8.com/dotty/40/000000/activity-grid.png"/>
 ![e1](https://user-images.githubusercontent.com/58674979/126086834-1caa31bf-208d-4aa9-97aa-eb1d9e1b854b.png)
 ![e2](https://user-images.githubusercontent.com/58674979/126086838-fd906fc8-20d8-4602-85b9-aa8dfc70c564.png)
-
 
 
 ## Herramienta utilizada: Draw.io ![draw](https://user-images.githubusercontent.com/58674979/126081442-e83d9ccc-14c9-4ff8-8dc5-9f300be169f0.png)
