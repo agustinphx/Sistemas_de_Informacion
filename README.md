@@ -49,7 +49,6 @@
 ![e1](https://user-images.githubusercontent.com/58674979/126086413-9b1df8fd-5414-45fc-8a44-1575c9bbe3b6.png)
 
 ## Diagrama de bloque extendido <img src="https://img.icons8.com/dotty/40/000000/activity-grid.png"/>
-![e2](https://user-images.githubusercontent.com/58674979/126086434-9506a256-9df4-46f8-9955-2a934f74642d.png)
 
 
 
