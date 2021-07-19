@@ -42,7 +42,8 @@
 ![dis](https://user-images.githubusercontent.com/58674979/126086370-5e60768c-d372-4fa9-91d7-8d9c4f241170.png)
 
 ## Cursograma <img src="https://img.icons8.com/dusk/40/000000/workflow.png"/>
-
+![c1](https://user-images.githubusercontent.com/58674979/126086392-189ef497-83b0-4e38-a845-ccaf2857576a.png)
+![c2](https://user-images.githubusercontent.com/58674979/126086401-d1a42d3e-983a-4b64-b5cf-0f74fbd8b2fb.png)
 
 ## Diagrama de bloque <img src="https://img.icons8.com/dotty/40/000000/activity-feed.png"/>
 
