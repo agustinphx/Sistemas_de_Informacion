@@ -1,6 +1,17 @@
 # Sistemas de Información <img src="https://img.icons8.com/cotton/60/000000/information-pyramid.png"/>
-## Este repositorio contiene todos los proyectos realizados para la asignatura: ''Seminario de Sistemas II: Sistemas de Información'' de la Universidad Caece.
-## La parte práctica consiste en los diagramas organizacionales: DIS, cursograma, diagrama de bloque y diagrama de bloque extendido.
+
+Este repositorio contiene los proyectos realizados para la asignatura optativa: "Sistemas de Información" de la Universidad Caece.
+###  ‎ ‎ ‎ ‎ ‎
+
+### La asignatura está compuesta por los siguientes contenidos:
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Introducción a la teoría general de los sistemas.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Funciones de los sistemas de información: Entradas y salidas.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Datos, información y conocimiento.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Sistemas de información empresariales: ERP, CRM, MRP, SCM.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Modelado de procesos: Cursograma, diagrama de interdependencia sectorial, diagrama de bloques.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Reingeniería de procesos.
+###  ‎ ‎ 
+
 
 
 ‎      ‏‏‎
