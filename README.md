@@ -1,6 +1,6 @@
 # Sistemas de Información <img src="https://img.icons8.com/cotton/60/000000/information-pyramid.png"/>
 
-Este repositorio contiene los proyectos realizados para la asignatura optativa: "Sistemas de Información" de la Universidad Caece.
+Este repositorio contiene proyectos prácticos realizados en la asignatura optativa: "Sistemas de Información" de la Universidad Caece.
 ###  ‎ ‎ ‎ ‎ ‎
 
 ### La asignatura está compuesta por los siguientes contenidos:
